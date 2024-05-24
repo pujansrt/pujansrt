@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Pujan and I’m a Principal Software Architect and AWS enthusiast I have more than 16 years of industry experience in various domains (Enterprise, Networking, Streaming, Banking, IoT). I have architected and built scaled connected products for multiple brands and categories.
 
-My particular passion is Cloud specially AWS. I am AWS Certified Solutions Architect - Professional. I program in TypeScript/Node.js/Java frequently and in Bash/Python occasionally.
+My particular passion is Cloud specially AWS. I am ![Certified Solutions Architect Professional](https://img.shields.io/badge/Certified-Solutions%20Architect%20Professional-blue?logo=amazonaws&logoColor=white) and ![Certified Machine Learning Specialty](https://img.shields.io/badge/Certified-Machine%20Learning%20Specialty-orange?logo=amazonaws&logoColor=white). I program in TypeScript/Node.js/Java frequently and in Bash/Python occasionally.
 
 ### Technologies
 - Languages: Java, TypeScript, JavaScript, Python
