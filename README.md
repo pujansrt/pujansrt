@@ -27,14 +27,4 @@ My expertise is particularly focused on Cloud technology, with a specialization 
 
 ### 📊Github Stats 
 
-
-<p align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=pujansrt&&theme=dracula&hide=css,html' align='center'/></p>
-
-<br>
-
-<p align='center'><img src='https://github-readme-stats.vercel.app/api/?username=pujansrt&theme=dracula&show_icons=true' align='center'/></p>
-
-<br>
-
-<p align='center'><img src='https://github-profile-trophy.vercel.app/?username=pujansrt&theme=dracula&row=1&column=6' align='center'/></p>
-
+TBA
