@@ -2,7 +2,7 @@
 I am a Principal Engineer & Architect with 18+ years of experience designing and building high-scale distributed systems across cloud, data, and AI/ML platforms. [LinkedIn](https://www.linkedin.com/in/pujansrt/)
 
 ### Technologies
-- **Architecture & Patterns**: Event-Driven Architecture, DDD, CQRS/Event Sourcing, Multi-Tenant SaaS, Well-Architected Framework
+- **Architecture & Patterns**: Event-Driven Arch, DDD, CQRS/Event Sourcing, Multi-Tenant SaaS, Well-Architected Framework
 - **Tech Stack**: Java (Spring Boot, Concurrency), TypeScript, Node.js, Python, React
 - **Data Analytics & AI/ML**: Qdrant, Redshift, Athena, Comprehend, PII Detection/Redaction, SageMaker, LangSmith
 - **Messages & Streaming**: Apache Kafka, Amazon Kinesis, SQS, SNS, MQTT, WebSockets
